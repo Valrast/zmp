@@ -1,6 +1,7 @@
 #include <iostream>
 
+using namespace std;
 int main(){
-	std::cout<<"\n Hello GIT\n";
+	cout<<"\n Hello GIT\n";
 	return 0;
 }
