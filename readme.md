@@ -3,3 +3,4 @@ Repozytorium utworzone na potrzeby labolarium nr1 z Zaawansowanych metod program
 edycja pliku z poziomu github!!
 
 zmiana2
+5
